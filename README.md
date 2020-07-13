@@ -12,6 +12,6 @@
 ## Результаты
 
 1. 0% успешных
-2. https://github.com/Nikolai-vyalkov/Precision.git
+2.https://github.com/Nikolai-vyalkov/Precision/issues/1#issue-655714638
 
 ## Общие рекомендации
